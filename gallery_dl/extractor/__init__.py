@@ -135,6 +135,7 @@ modules = [
     "recursive",
     "oauth",
     "test",
+    "desktopography",
 ]
 
 
